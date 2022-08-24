@@ -1,0 +1,7 @@
+A Chip8 Emulator for the steam game Virtual Circuit Board.
+
+Use the instructions.py file to convert other Chip8 Roms to use the emulator.
+
+Example: python3 instructions.py roms/IBMLogo.ch8
+
+Copy and paste the output into VCB.
